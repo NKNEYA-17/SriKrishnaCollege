@@ -1,1 +1,2 @@
 # SriKrishnaCollege
+student management
